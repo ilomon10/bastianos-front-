@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Route, Switch } from 'react-router-dom'
-import Instascan from 'instascan'
+import Instascan from '../../node_modules/instascan/instascan'
 import styled from 'styled-components'
 
 import crud from '../crud'
@@ -73,7 +73,6 @@ export default class Scan extends Component {
         this.instascan = new Instascan.Scanner({ video: this.videoDom, mirror: false });
         this.instascan.addListener('scan', content => {
             this.props.onScan(content);
-            console.log('unmount');
             this.instascan.stop();
         })
         Instascan.Camera.getCameras().then((cameras) => {
