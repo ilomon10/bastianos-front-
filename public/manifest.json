@@ -1,0 +1,7 @@
+{
+    "short_name": "Pos",
+    "name": "Bastianos Cafe",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "potrait"
+}

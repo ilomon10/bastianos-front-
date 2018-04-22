@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "nama": "Chicken Cordon Bleu",
+        "deskripsi": "Dada ayam, keju dan daging sapi asap yang digoreng dan dilengkapi saus barbeque dan kentang goreng.",
+        "harga": 43,
+        "kategori": "makanan"
+    },
+    {
+        "id": 1,
+        "nama": "Fish Finger",
+        "deskripsi": "Ikan yang digoreng tepung, dilengkapi dengan kentang goreng dan saus barbeque.",
+        "harga": 38,
+        "kategori": "makanan"
+    },
+    {
+        "id": 2,
+        "nama": "Seafood Platter",
+        "deskripsi": "Ikan, udang, cumi digoreng dengan tepung, dilengkapi dengan kentang goreng dan saus tar tar.",
+        "harga": 55,
+        "kategori": "makanan"
+    }
+]

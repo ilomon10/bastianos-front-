@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "nama": "Lychee Ice Tea",
+        "harga": 22,
+        "kategori": "minuman"
+    },
+    {
+        "id": 1,
+        "nama": "Lychee Lime",
+        "harga": 24,
+        "kategori": "minuman"
+    },
+    {
+        "id": 2,
+        "nama": "Mojito Virgin",
+        "harga": 24,
+        "kategori": "minuman"
+    },
+    {
+        "id": 3,
+        "nama": "Avocado Float",
+        "harga": 24,
+        "kategori": "minuman"
+    },
+    {
+        "id": 4,
+        "nama": "Kopi Hitam / Susu",
+        "harga": 20,
+        "kategori": "minuman"
+    },
+    {
+        "id": 5,
+        "nama": "Ice Coffee",
+        "harga": 21,
+        "kategori": "minuman"
+    },
+    {
+        "id": 6,
+        "nama": "Coffee Cappucino",
+        "harga": 22,
+        "kategori": "minuman"
+    },
+    {
+        "id": 7,
+        "nama": "Coffee Latte",
+        "harga": 22,
+        "kategori": "minuman"
+    },
+    {
+        "id": 8,
+        "nama": "Ice Latte",
+        "harga": 23,
+        "kategori": "minuman"
+    },
+    {
+        "id": 9,
+        "nama": "Hot Chocolate",
+        "harga": 21,
+        "kategori": "minuman"
+    },
+    {
+        "id": 10,
+        "nama": "Ice Chocolate",
+        "harga": 22,
+        "kategori": "minuman"
+    },
+    {
+        "id": 11,
+        "nama": "Caffee Mocha",
+        "harga": 22,
+        "kategori": "minuman"
+    },
+    {
+        "id": 12,
+        "nama": "Es Kelapa Muda",
+        "harga": 19,
+        "kategori": "minuman"
+    },
+    {
+        "id": 13,
+        "nama": "Es Jeruk Nipis",
+        "harga": 19,
+        "kategori": "minuman"
+    },
+    {
+        "id": 14,
+        "nama": "Teh Hangat",
+        "harga": 12,
+        "kategori": "minuman"
+    },
+    {
+        "id": 15,
+        "nama": "Es Teh Manis",
+        "harga": 13,
+        "kategori": "minuman"
+    },
+    {
+        "id": 16,
+        "nama": "Es Lemon Tea",
+        "harga": 14,
+        "kategori": "minuman"
+    },
+    {
+        "id": 17,
+        "nama": "Coca Cola",
+        "harga": 12,
+        "kategori": "minuman"
+    },
+    {
+        "id": 18,
+        "nama": "Sprite",
+        "harga": 12,
+        "kategori": "minuman"
+    },
+    {
+        "id": 19,
+        "nama": "Air Mineral",
+        "harga": 9,
+        "kategori": "minuman"
+    }
+]

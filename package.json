@@ -1,0 +1,39 @@
+{
+  "name": "pos",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.0.4",
+    "@turf/turf": "^5.1.6",
+    "axios": "^0.17.1",
+    "d3": "^4.12.2",
+    "instascan": "^1.0.0",
+    "mapbox-gl": "^0.39.1",
+    "moment": "^2.20.1",
+    "numeral": "^2.0.6",
+    "react": "^15.6.2",
+    "react-calendar-heatmap": "^1.6.3",
+    "react-dom": "^15.6.2",
+    "react-mapbox-gl": "^3.4.1",
+    "react-mapbox-gl-draw": "git+https://git@github.com/amaurymartiny/react-mapbox-gl-draw.git",
+    "react-modal": "^3.1.10",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-transition-group": "^2.2.1",
+    "react-virtualized": "^9.18.0",
+    "reactjs-calendar-heatmap": "0.0.10",
+    "redux": "^3.7.2",
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4",
+    "styled-components": "^2.4.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.17"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

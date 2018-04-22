@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "nama": "Tinutuan",
+        "deskripsi": "Campuran berbagai macam sayuran yaitu labu kuning yang juga disebut sambiki, beras, singkong, bayam, kangkung, daun gedi, jagung.",
+        "harga": 26,
+        "kategori": "makanan"
+    },
+    {
+        "id": 1,
+        "nama": "Tinutuan Campur",
+        "deskripsi": "Tinutuan dilengkapi dengan mie.",
+        "harga": 28,
+        "kategori": "makanan"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "nota": 1,
+        "meja": 2,
+        "pesanan": [
+            {
+                "id": 0,
+                "nama": "Nasi Goreng Buntut",
+                "deskripsi": "Dimasak dengan saos sambal dan delengkapi dengan buntut sapi goreng.",
+                "harga": 45000,
+                "kategori": "makanan",
+                "jumlahPesanan": 2
+            },
+            {
+                "id": 1,
+                "nama": "Lychee Lime",
+                "harga": 24000,
+                "kategori": "minuman",
+                "jumlahPesanan": 4
+            },
+            {
+                "id": 0,
+                "nama": "Chicken Cordon Bleu",
+                "deskripsi": "Dada ayam, keju dan daging sapi asap yang digoreng dan dilengkapi saus barbeque dan kentang goreng.",
+                "harga": 43000,
+                "kategori": "makanan",
+                "jumlahPesanan": 1
+            }
+        ]
+    },
+    {
+        "nota": 2,
+        "meja": 3,
+        "pesanan": [
+            {
+                "id": 0,
+                "nama": "Nasi Goreng Buntut",
+                "deskripsi": "Dimasak dengan saos sambal dan delengkapi dengan buntut sapi goreng.",
+                "harga": 45000,
+                "kategori": "makanan",
+                "jumlahPesanan": 3
+            },
+            {
+                "id": 1,
+                "nama": "Lychee Lime",
+                "harga": 24000,
+                "kategori": "minuman",
+                "jumlahPesanan": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "nama": "Spaghetti Carbonara",
+        "deskripsi": "Spaghetti dengan sauce carbonara dilengkapi dengan mushroom dan daging asap.",
+        "harga": 37,
+        "kategori": "makanan"
+    },
+    {
+        "id": 1,
+        "nama": "Spaghetti Cakalang",
+        "deskripsi": "Spaghetti Aglio olio depadukan dengan sambal dan ikan caklang khas Manado.",
+        "harga": 36,
+        "kategori": "makanan"
+    },
+    {
+        "id": 2,
+        "nama": "Spaghetti Bolognaise",
+        "deskripsi": "Spaghetti dengan sauce bolognaise dilengkapi dengan meat ball dan keju.",
+        "harga": 48,
+        "kategori": "makanan"
+    }
+]

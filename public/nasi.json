@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "nama": "Nasi Goreng Buntut",
+        "deskripsi": "Dimasak dengan saos sambal dan delengkapi dengan buntut sapi goreng.",
+        "harga": 45,
+        "kategori": "makanan"
+    },
+    {
+        "id": 1,
+        "nama": "Nasi Goreng Special",
+        "deskripsi": "Dilengkapi dengan telur mata sapi, sate ayam, udang, acar dan sambal.",
+        "harga": 37,
+        "kategori": "makanan"
+    },
+    {
+        "id": 2,
+        "nama": "Nasi Goreng Cakalang",
+        "deskripsi": "Nasi Goreng ciri khas Manado, dimasak dengan ikan cakalang.",
+        "harga": 36,
+        "kategori": "makanan"
+    },
+    {
+        "id": 3,
+        "nama": "Nasi Kuning",
+        "deskripsi": "Nasi yang dimasak dengan kunyit serta santan dan rempah-rempah. Dilengkapi dengan, ikan cakalang, deging sapi, laksa, kentang dan telur rebus.",
+        "harga": 28,
+        "kategori": "makanan"
+    }
+]

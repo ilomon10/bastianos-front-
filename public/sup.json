@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "nama": "Sup Buntut",
+        "deskripsi": "Sup buntut dengan pilihan buntut digoreng atau direbus.",
+        "harga": 68,
+        "kategori": "makanan"
+    },
+    {
+        "id": 1,
+        "nama": "Sup Brenenbon Sapi",
+        "deskripsi": "Sup daging dilengkapi dengan kacang brenebon/kacang merah.",
+        "harga": 33,
+        "kategori": "makanan"
+    }
+]

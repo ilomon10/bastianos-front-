@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "nama": "Mie Goreng Ayam",
+        "deskripsi": "Mie Goreng dilengkapi dengan daging ayam dan telur mata sapi, kerupuk, acar dan sambal.",
+        "harga": 31,
+        "kategori": "makanan"
+    },
+    {
+        "id": 1,
+        "nama": "Mie Cakalang",
+        "deskripsi": "Hidangan olahan mie khas Manado, dilekengkapi dengan ikan Cakalang dan abon cakalag",
+        "harga": 30,
+        "kategori": "makanan"
+    },
+    {
+        "id": 2,
+        "nama": "Mie Brenebon",
+        "deskripsi": "Campuran Mie Cakalang dan kuah brenebon.",
+        "harga": 30,
+        "kategori": "makanan"
+    }
+]
