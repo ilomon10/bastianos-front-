@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { Route, Switch } from 'react-router-dom'
-import Instascan from '../../node_modules/instascan/instascan'
+// import Instascan from '../component/instascan.js'
+import Instascan from 'bastianos-scanner'
 import styled from 'styled-components'
 
 import crud from '../crud'
